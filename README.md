@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey, I'm Ayman – aka <strong>El Baz Dev</strong></h1>
+  <h1>👋 Hey, I'm Ayman – <strong>El Baz Dev</strong></h1>
 
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=2B6CB0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+TailwindCSS;Always+learning+and+building" alt="Typing SVG"/>
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 💻 Full Stack Developer (React.js • Laravel • MongoDB • MySQL)
 - 🎯 Passionate about clean UI, performance & modern web apps  
-- 📚 Currently learning **German A1** and improving backend architecture  
+- 📚 I hold an ÖSD B2 German certificate  
 - 🧠 Love building apps with React, TailwindCSS, and Express  
 - ✨ Sharing knowledge & building real-world projects
 
