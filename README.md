@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey, I'm Ayman – <strong>El Baz Dev</strong></h1>
+  <h1>👋 Hey, I'm Ayman – <strong>ElBazDev</strong></h1>
 
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=2B6CB0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+TailwindCSS;Always+learning+and+building" alt="Typing SVG"/>
@@ -37,6 +37,5 @@ I also create guides & tutorials on modern web development.
 ---
 
 ## 🤝 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-@yourtwitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourinstagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourinstagram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20El%20Baz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![Instagram]([https://img.shields.io/badge/Instagram-@yourinstagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourinstagram](https://www.instagram.com/aymen_el_baz?igsh=NTNhemczc3FpemY0&utm_source=qr))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Ayman%20El%20Baz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/ayman-el-baz-272811398/))
