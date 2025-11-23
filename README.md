@@ -37,5 +37,5 @@ I also create guides & tutorials on modern web development.
 ---
 
 ## 🤝 Connect with Me
-[![Instagram]([https://img.shields.io/badge/Instagram-@yourinstagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourinstagram](https://www.instagram.com/aymen_el_baz?igsh=NTNhemczc3FpemY0&utm_source=qr))
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Ayman%20El%20Baz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/ayman-el-baz-272811398/))
+[![Instagram](https://img.shields.io/badge/Instagram-@yourinstagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ayman_el_baz](https://www.instagram.com/aymen_el_baz?igsh=NTNhemczc3FpemY0&utm_source=qr))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20El%20Baz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/ayman-el-baz-272811398/)
