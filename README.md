@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Hey, I'm Ayman – aka <strong>El Baz Dev</strong></h1>
 
-<!--
-**ayman-el-baz/ayman-el-baz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=2B6CB0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Laravel+%7C+TailwindCSS;Always+learning+and+building" alt="Typing SVG"/>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Full Stack Developer (React.js • Laravel • MongoDB • MySQL)
+- 🎯 Passionate about clean UI, performance & modern web apps  
+- 📚 Currently learning **German A1** and improving backend architecture  
+- 🧠 Love building apps with React, TailwindCSS, and Express  
+- ✨ Sharing knowledge & building real-world projects
+
+---
+
+## 🧠 My Favorite Stack
+**React.js · Laravel · Node.js · TypeScript · TailwindCSS · MySQL/MongoDB**
+
+---
+
+## 📚 My Courses & Projects
+Check out my projects, internships, and full-stack apps in my repositories 👇  
+I also create guides & tutorials on modern web development.
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayman-el-baz&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-el-baz&layout=compact&theme=default" alt="Top Languages" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-@yourtwitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
+[![Instagram](https://img.shields.io/badge/Instagram-@yourinstagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourinstagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman%20El%20Baz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
